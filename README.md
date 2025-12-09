@@ -30,7 +30,7 @@ Hi, I’m Yusif McCall. I’m building full-stack applications, learning network
 - I love turning real-world ideas into working code.
 
 ## Links
-- [Landing Page](https://your-vercel-link.com)
+- [Landing Page]https://my-repository-jet-five.vercel.app/
 - [Resume PDF](<Resume/YUSIF MCCALL RESUME.pdf>)
 - [GitHub Projects](https://github.com/Seffixit/Seffixit-Portfolio)
 
